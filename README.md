@@ -1,4 +1,4 @@
-<img src="https://womenscyberjutsu.org/resource/resmgr/images/images3/2021-06-Cyberjutsu_logo_ligh.png" width="500px">
+<img src="https://github.com/WomensCyberjutsu/WSC-Cyber-Challenges/blob/main/WSC_Logo.png?raw=true" width="400px">
 
 <h2>Women's Society of Cyberjutsu (WSC) is a national 501(c)(3) non-profit community, 
   focused on empowering women to succeed in the cybersecurity industry.</h2>
